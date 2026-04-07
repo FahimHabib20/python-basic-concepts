@@ -21,3 +21,19 @@ print("Hello, World!")
 
 # Case-Sensitive
 # Variable names are case-sensitive.
+
+# Many Values to Multiple Variables
+# x, y, z = "Orange", "Banana", "Cherry" 
+
+# One Value to Multiple Variables          
+# x = y = z = "Orange"
+# print(x)
+# print(y)
+# print(z)
+
+# # list, tuple, set
+# fruits = ["apple", "banana", "cherry"]
+# x, y, z = fruits
+# print(x)
+# print(y)
+# print(z)
